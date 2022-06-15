@@ -1,4 +1,4 @@
 # vowels
+![image](https://user-images.githubusercontent.com/106248168/173817122-cb52b7c7-b9fd-475a-9d2a-010af4bac237.png)
 
-![image](https://user-images.githubusercontent.com/106248168/173815913-25e7d8db-2409-45a3-8947-d79f9cb0affb.png)
 
